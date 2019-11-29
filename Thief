@@ -5,6 +5,64 @@
       "title": "Phantom Knights' Fog Blade",
       "poster": "https://drive.google.com/open?id=1KIUMhaVcii29JWJm9zNVUpoki1spywHp",
       "type": "TCG",
-     },
+      "money": " vnd",
+    },
+    {
+      "ID": "2",
+      "title": "Infinite Impermanence",
+      "poster": "https://drive.google.com/open?id=1GzOiE9cjn33i742TwQHW_xe4Rcu459tA",
+      "type": "TCG",
+      "money": " vnd"
+    },
+    {
+      "ID": "3",
+      "title": "Raigeki",
+      "poster": "https://drive.google.com/open?id=1MYAdHedL7Wpk_DJaXe1e1AD4K9JnbU6c",
+      "type": "TCG",
+      "money": " vnd",
+    },
+    {
+      "ID": "4",
+      "title": "The Phantom Knights of Slient Boots",
+      "poster": "https://drive.google.com/open?id=1w-oY4hgdwcrt-23ntUbE4AEZ-F8_uQ6a",
+      "type": "TCG",
+      "money": " vnd",
+    },
+    {
+      "ID": "5",
+      "title": "Vision HERO Faris",
+      "poster": "https://drive.google.com/open?id=1_y0AKrddTUKU0UwokfhzzjwZxdlq3f-B",
+      "type": "TCG",
+      "money": " vnd",
+    },
+    {
+      "ID": "6",
+      "title": "Cosmic Cyclone",
+      "poster": "https://drive.google.com/open?id=1G148vH4PaMCLpMpzErtDz4pAL4KC6KHG",
+      "type": "TCG",
+      "money": " vnd",
+    },
+    {
+      "ID": "7",
+      "title": "Ib the World Chalice Justiciar",
+      "poster": "https://drive.google.com/open?id=1_ucYzkMIxUs2_W_MqZ5AnWwGSPj_3_w9",
+      "type": "OCG",
+      "money": " vnd",
+    },
+    {
+      "ID": "8",
+      "title": "Blue-Eyes Alternative White Dragon",
+      "poster": "https://drive.google.com/open?id=1GMX7pdYMQBDLTLSTxvPEF1hFYnl85OoK",
+      "type": "OCG",
+      "money": " vnd",
+    },
+    {
+      "ID": "9",
+      "title": "Sekka's Light",
+      "poster": "https://drive.google.com/open?id=1Ah6JaDZtWE3lafCnVOOlFWe_GnC4azZz",
+      "type": "OCG",
+      "money": " vnd",
+    },
   ]
+  
 }
